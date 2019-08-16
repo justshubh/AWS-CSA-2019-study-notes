@@ -1,9 +1,9 @@
 # [AWS Certified Solution Architect - Associate](https://aws.amazon.com/training/path-architecting/) 2019 Exam Notes
 
-![License](https://img.shields.io/github/license/AlessioCasco/AWS-CSA-2019-study-notes.svg)
+![License](https://img.shields.io/github/license/justshubh/AWS-CSA-2019-study-notes.svg)
 
 ![Course_year](https://img.shields.io/badge/Course%20Year-2019-brightgreen.svg)
-![Last_Commit](https://img.shields.io/github/last-commit/AlessioCasco/AWS-CSA-2019-study-notes.svg)
+![Last_Commit](https://img.shields.io/github/last-commit/justshubh/AWS-CSA-2019-study-notes.svg)
 
 ================
 
